@@ -1,8 +1,6 @@
-# React + Vite
+# TastyBytes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TastyBytes is a React-based web application that leverages the Spoonacular API to offer users an engaging and informative browsing experience. The platform showcases a wide range of recipes, complete with ingredients and vibrant images, making it easier for users to explore and discover delicious meals to try. TastyBytes seamlessly combines functionality and design to create an enjoyable recipe-searching experience.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live Demo
+(https://tastybytes-livid.vercel.app/)
